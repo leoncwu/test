@@ -14,3 +14,6 @@ git revert <id> //
 git remote -v					 // check any remote repo
 git remote add [<options>] <name> <url>		 // add a remote repo
 git push -u <remote name> <local branch name>    // push local to remote
+git pull <remote name>
+
+
